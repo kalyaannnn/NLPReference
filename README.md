@@ -1,2 +1,2 @@
 # NLPReference
-All the concepts of NLP in one repository
+All the concepts of NLP in a single repository for future references.
